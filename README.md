@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhadip</h1>
 <h3 align="center">A passionate MERN Stack Developer and an AI Research Engineer.</h3>
 
-- 🔭 I’m currently working on [DORA](https://github.com/subhadipjana866/Dora)
+- 🛠️ I'm currenty working with [Kognie](https://kognie.com/).
+
+- 🔭 Worked on [DORA](https://github.com/subhadipjana866/Dora)
 
 - 🌱 I’m currently learning **Microsoft Power BI**
 
