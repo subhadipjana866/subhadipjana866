@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOPs**
 
-- 👨‍💻 All of my projects are available at [https://https://subhadip-portfolio.netlify.app/](https://subhadip-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://subhadip-portfolio.netlify.app/](https://subhadip-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python, React**
 
