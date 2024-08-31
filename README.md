@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **subhadipjana866@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://subhadip-portfolio.netlify.app/static/media/WebResume.3603435465b4ad5247c7.pdf)
+- 📄 Know about my experiences [Resume](https://subhadip-portfolio.netlify.app/static/media/Resume.36f433246afd1637af6d.rar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
