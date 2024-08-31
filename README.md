@@ -5,7 +5,7 @@
 
 - 🔭 Worked on [DORA](https://github.com/subhadipjana866/Dora)
 
-- 🌱 I’m currently learning **Microsoft Power BI**
+- 🌱 I’m currently learning **DevOPs**
 
 - 👨‍💻 All of my projects are available at [https://https://subhadip-portfolio.netlify.app/](https://subhadip-portfolio.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **subhadipjana866@gmail.com**
 
-- 📄 Know about my experiences [https://subhadip-portfolio.netlify.app/static/media/WebResume.3603435465b4ad5247c7.pdf](https://subhadip-portfolio.netlify.app/static/media/WebResume.3603435465b4ad5247c7.pdf)
+- 📄 Know about my experiences [Resume](https://subhadip-portfolio.netlify.app/static/media/WebResume.3603435465b4ad5247c7.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
