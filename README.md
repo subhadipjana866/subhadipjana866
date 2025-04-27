@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working with Kognie.<br>🔭 Building DORAv2<br>🌱 I’m currently learning DevOPs<br>👨‍💻 All of my projects are available at https://subhadip-portfolio.netlify.app/<br>💬 Ask me about Python, ReactJS, NodeJS<br>📫 Reach me at subhadipjana866@gmail.com<br>📄 Know about my experiences on my Resume
+🛠️ I'm currently working with Kognie.<br>🔭 Building DORAv2<br>🌱 I’m currently learning DevOPs<br>👨‍💻 All of my projects are available at https://subhadip-portfolio.netlify.app/<br>💬 Ask me about Python, ReactJS, NodeJS<br>📫 Reach me at subhadipjana866@gmail.com<br>📄 Know about my experiences on my [![Resume](https://subhadip-portfolio.netlify.app/static/media/Resume.36f433246afd1637af6d.rar)]
 
 
 ## 🌐 Socials:
